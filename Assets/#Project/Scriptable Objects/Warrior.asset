@@ -12,9 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 760b345d4f8297540888517c404d225c, type: 3}
   m_Name: Warrior
   m_EditorClassIdentifier: Assembly-CSharp::NPCProfile
-  mood: 2
+  mood: 1
   stats:
-    attack: 15
-    defense: 0
-    willpower: 0
-    charisma: 200
+    attack: 1500
+    defense: 1500
+    willpower: 10
+    charisma: 12

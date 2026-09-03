@@ -153,6 +153,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::NPC
   myMood: 2
+  stats:
+    attack: 0
+    defense: 0
+    willpower: 0
+    charisma: 0
+  profile: {fileID: 11400000, guid: e1d4a5f57e85d7349bed9403e0b6a730, type: 2}
 --- !u!65 &38127876
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -1193,6 +1199,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::NPC
   myMood: 0
+  stats:
+    attack: 85
+    defense: 0
+    willpower: 0
+    charisma: 0
+  profile: {fileID: 11400000, guid: e1d4a5f57e85d7349bed9403e0b6a730, type: 2}
 --- !u!65 &662562659
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -1731,6 +1743,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::NPC
   myMood: 3
+  stats:
+    attack: 0
+    defense: 0
+    willpower: 0
+    charisma: 0
+  profile: {fileID: 11400000, guid: e1d4a5f57e85d7349bed9403e0b6a730, type: 2}
 --- !u!65 &1754630666
 BoxCollider:
   m_ObjectHideFlags: 0
